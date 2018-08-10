@@ -1,0 +1,15 @@
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.Form1.resources
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.csproj.GenerateResource.cache
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.csproj.CoreCompileInputs.cache
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.csprojAssemblyReference.cache
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Release\m2222222k.exe.config
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Release\m2222222k.exe.manifest
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Release\m2222222k.application
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Release\m2222222k.exe
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Release\m2222222k.pdb
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.Properties.Resources.resources
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.TrustInfo.xml
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.exe.manifest
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.application
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.exe
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Release\m2222222k.pdb

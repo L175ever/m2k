@@ -1,0 +1,10 @@
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Debug\m2222222k.exe.config
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Debug\m2222222k.exe
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\bin\Debug\m2222222k.pdb
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.Form1.resources
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.Properties.Resources.resources
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.csproj.GenerateResource.cache
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.csproj.CoreCompileInputs.cache
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.exe
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.pdb
+F:\ТУТА ВСЕ\c#\m2222222k\m2222222k\obj\Debug\m2222222k.csprojAssemblyReference.cache
